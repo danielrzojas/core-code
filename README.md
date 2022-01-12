@@ -10,11 +10,17 @@ R/ Java is a particular language because it is compiled, but it is compiled into
 #3. Create an algorithm to calculate the equivalent of your local currencty to USD
 
 Definir "quetzal", "dolar", "cambio".
+
 Cuantos quetzales quiere cambiar
+
 "quetzal"
+
 Ingrese el valor actual del dolar
+
 "dolar"
+
 "cambio" = "quetzal"*"dolar"
+
 Usted tiene: "cambio" USD.
 
 #4. Read about Pseudocode here, you can also find some examples here
