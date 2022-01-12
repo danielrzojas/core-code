@@ -7,7 +7,7 @@ core-code
 
 #### 2. Search and answer the question: Java language is compiled or interpreted?
 
-R/ Java is a particular language because it is compiled, but it is compiled into an intermediate language called bytecode, which is then interpreted.
+* Java is a particular language because it is compiled, but it is compiled into an intermediate language called bytecode, which is then interpreted.
 
 #### 3. Create an algorithm to calculate the equivalent of your local currencty to USD
 
