@@ -58,7 +58,7 @@ Binary: 1100101011111110. Hexadecimal: CAFE
 #### 4 Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow this guide. We recomend to check the guide first but also this presentation could be helpful.
 #### 5. Base on the examples and the guide of the low-level language: 5.1 Create a program to add two numbers given by the user 5.2 Create a program that display your name
 
-...js
+```
 .data
     message: .asciiz "\nHello, World!\n"
   .text
@@ -66,4 +66,4 @@ Binary: 1100101011111110. Hexadecimal: CAFE
       li $v0, 4
       la $a0, message
       syscall
-...
+```
