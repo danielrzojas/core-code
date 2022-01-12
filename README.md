@@ -42,3 +42,8 @@ R/ It allows us to easily graphically see a certain logical process that can be 
 #### 9. Search about High-level languages and Low-level languages, you can start with this video
 
 ## Wednesday
+#### 1. Learn about binary, decimal and hexadecimal numbers
+#### 2. Translate the year you where born to binary, decimal and hexadecimal
+#### 3. Translate 51966 into hexadecimal and binary
+#### 4 Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow this guide. We recomend to check the guide first but also this presentation could be helpful.
+#### 5. Base on the examples and the guide of the low-level language: 5.1 Create a program to add two numbers given by the user 5.2 Create a program that display your name
