@@ -1,1 +1,15 @@
 # core-code
+# Week-1
+Activities.
+
+# 1. Watch this video about compilation and interpretation
+
+# 2. Search and answer the question: Java language is compiled or interpreted?
+
+# 3. Create an algorithm to calculate the equivalent of your local currencty to USD
+# 4. Read about Pseudocode here, you can also find some examples here
+# 5. Anwser to the question: Why is pseudocode helpful?
+# 6. Create a pseudocode to calculate the aproximated age of a user base on the year they born, (you can define a variable with the actual year if you need it, like for example i could define Y <-- 2022)
+# 7. Read about flowcharts here
+# 8. Answer to the question: Why are flowcharts important to us as developers?
+# 9. Search about High-level languages and Low-level languages, you can start with this video
