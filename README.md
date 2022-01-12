@@ -50,6 +50,7 @@ Binary system: The binary system is a numbering system in which the arithmetic b
 Hexadecimal System: The hexadecimal numbering system is a positional numbering system based on the number 16. The numbers that we will have here will be: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F. This makes a total of 16 different terms.
 
 #### 2. Translate the year you where born to binary, decimal and hexadecimal
+Decimal: 1990. Binary: 11111000110. Hexadecimal: 7C6
 
 #### 3. Translate 51966 into hexadecimal and binary
 #### 4 Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow this guide. We recomend to check the guide first but also this presentation could be helpful.
