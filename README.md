@@ -50,15 +50,20 @@ Usted tiene: "cambio" USD.
 * Hexadecimal system: The hexadecimal numbering system is a positional numbering system based on the number 16. The numbers that we will have here will be: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F. This makes a total of 16 different terms.
 
 #### 2. Translate the year you where born to binary, decimal and hexadecimal
-Decimal: 1990. Binary: 11111000110. Hexadecimal: 7C6
+* Decimal: 1990. * Binary: 11111000110. * Hexadecimal: 7C6
 
 #### 3. Translate 51966 into hexadecimal and binary
-Binary: 1100101011111110. Hexadecimal: CAFE
+* Binary: 1100101011111110. * Hexadecimal: CAFE
 
 #### 4 Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow this guide. We recomend to check the guide first but also this presentation could be helpful.
 #### 5. Base on the examples and the guide of the low-level language:  
 
 #### 5.1 Create a program to add two numbers given by the user
+```
+
+```
+
+#### 5.2 Create a program that display your name
 ```
 .data
     message: .asciiz "\nDaniel Rojas!\n"
@@ -68,5 +73,3 @@ Binary: 1100101011111110. Hexadecimal: CAFE
       la $a0, message
       syscall
 ```
-#### 5.2 Create a program that display your name
-
