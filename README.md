@@ -1,5 +1,5 @@
 # core-code
-#Week 1 - Activities
+# Week 1 - Activities
 
 #1. Watch this video about compilation and interpretation
 
