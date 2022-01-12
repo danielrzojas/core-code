@@ -4,7 +4,6 @@
 #1. Watch this video about compilation and interpretation
 
 #2. Search and answer the question: Java language is compiled or interpreted?
-
 R/ Java is a particular language because it is compiled, but it is compiled into an intermediate language called bytecode, which is then interpreted.
 
 #3. Create an algorithm to calculate the equivalent of your local currencty to USD
@@ -12,6 +11,7 @@ R/ Java is a particular language because it is compiled, but it is compiled into
 #4. Read about Pseudocode here, you can also find some examples here
 
 #5. Anwser to the question: Why is pseudocode helpful?
+R/Pseudocode helps us understand tasks in a language independent way.
 
 #6. Create a pseudocode to calculate the aproximated age of a user base on the year they born, (you can define a variable with the actual year if you need it, like for example i could define Y <-- 2022)
 
