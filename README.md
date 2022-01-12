@@ -3,7 +3,7 @@ core-code
 
 ## Tuesday
 
-### 1. Watch this video about compilation and interpretation
+#### 1. Watch this video about compilation and interpretation
 
 #2. Search and answer the question: Java language is compiled or interpreted?
 
