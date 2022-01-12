@@ -18,5 +18,6 @@ R/Pseudocode helps us understand tasks in a language independent way.
 #7. Read about flowcharts here
 
 #8. Answer to the question: Why are flowcharts important to us as developers?
+R/ It allows us to easily graphically see a certain logical process that can be useful for some type of task.
 
 #9. Search about High-level languages and Low-level languages, you can start with this video
