@@ -1,6 +1,8 @@
 # core-code
 # Week 1 - Activities
 
+## Monday
+
 #1. Watch this video about compilation and interpretation
 
 #2. Search and answer the question: Java language is compiled or interpreted?
