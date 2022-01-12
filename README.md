@@ -47,6 +47,8 @@ Decimal system: It is a positional numbering system in which quantities are repr
 
 Binary system: The binary system is a numbering system in which the arithmetic base 2 is used. This system is used internally by computers and digital systems to carry out absolutely all processes. This numbering system is only represented by two digits, 0 and 1, that is why it is based on 2 (two digits). With it, all value chains will be built. 
 
+Hexadecimal System: The hexadecimal numbering system is a positional numbering system based on the number 16. The numbers that we will have here will be: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F. This makes a total of 16 different terms.
+
 #### 2. Translate the year you where born to binary, decimal and hexadecimal
 
 #### 3. Translate 51966 into hexadecimal and binary
