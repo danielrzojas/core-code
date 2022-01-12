@@ -45,7 +45,10 @@ R/ It allows us to easily graphically see a certain logical process that can be 
 #### 1. Learn about binary, decimal and hexadecimal numbers
 Decimal system: It is a positional numbering system in which quantities are represented by the arithmetic base of the number ten. As the base is the number ten, we will have the ability to build all the figures using ten numbers that are what we all know. 0, 1,2 3, 4, 5, 6, 7, 8 and 9. These numbers will be used to represent the position of the powers of 10 in the formation of any number.
 
+Binary system: The binary system is a numbering system in which the arithmetic base 2 is used. This system is used internally by computers and digital systems to carry out absolutely all processes. This numbering system is only represented by two digits, 0 and 1, that is why it is based on 2 (two digits). With it, all value chains will be built. 
+
 #### 2. Translate the year you where born to binary, decimal and hexadecimal
+
 #### 3. Translate 51966 into hexadecimal and binary
 #### 4 Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow this guide. We recomend to check the guide first but also this presentation could be helpful.
 #### 5. Base on the examples and the guide of the low-level language: 5.1 Create a program to add two numbers given by the user 5.2 Create a program that display your name
