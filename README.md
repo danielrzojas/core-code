@@ -53,5 +53,7 @@ Hexadecimal System: The hexadecimal numbering system is a positional numbering s
 Decimal: 1990. Binary: 11111000110. Hexadecimal: 7C6
 
 #### 3. Translate 51966 into hexadecimal and binary
+Binary: 1100101011111110. Hexadecimal: CAFE
+
 #### 4 Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow this guide. We recomend to check the guide first but also this presentation could be helpful.
 #### 5. Base on the examples and the guide of the low-level language: 5.1 Create a program to add two numbers given by the user 5.2 Create a program that display your name
