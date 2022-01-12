@@ -1,7 +1,7 @@
-# core-code
+core-code
 # Week 1 - Activities
 
-### Tuesday
+## Tuesday
 
 #1. Watch this video about compilation and interpretation
 
