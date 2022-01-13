@@ -30,10 +30,10 @@ Final Algorithm
 #### 6. Create a pseudocode to calculate the aproximated age of a user base on the year they born, (you can define a variable with the actual year if you need it, like for example i could define Y <-- 2022)
 ```
 Step 1: Enter the year of birth (1992)
-Step 2: Save to variable "a"
+Step 2: Save to variable "x"
 Step 3: Enter the current year (2022)
-Step 4: Save to variable "b"
-Step 5: Run "b - a"
+Step 4: Save to variable "y"
+Step 5: Run "y - x"
 Step 6: Result (30)
 ```
 
