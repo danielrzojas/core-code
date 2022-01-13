@@ -10,20 +10,17 @@ core-code
 * Java is a particular language because it is compiled, but it is compiled into an intermediate language called bytecode, which is then interpreted.
 
 #### 3. Create an algorithm to calculate the equivalent of your local currencty to USD
+```
+converter algorithm
 
-Definir "quetzal", "dolar", "cambio".
+write: "convert quetzals to dollars"
+write: "Enter the amount in quetzals"
+read: x;
+dollar = x / 7.8;
+Write: "The equivalent in dollars is:", dollar;
 
-Cuantos quetzales quiere cambiar
-
-"quetzal"
-
-Ingrese el valor actual del dolar
-
-"dolar"
-
-"cambio" = "quetzal"*"dolar"
-
-Usted tiene: "cambio" USD.
+Final Algorithm
+```
 
 #### 4. Read about Pseudocode here, you can also find some examples here
 
