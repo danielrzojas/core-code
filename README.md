@@ -1,5 +1,4 @@
 # Introduction to programming & Javascript - Week 1
-# Week 1 - Activities
 
 ## Tuesday
 
