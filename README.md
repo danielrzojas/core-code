@@ -109,6 +109,13 @@ Step 6: Result (30)
 ```
 ## Thursday
 #### 1. Search for real word applications of Javascript
+Common examples of JavaScript uses and applications include:
+* Presentations
+* webdevelopment
+* Server Applications
+* Web Applications
+* Games
+* Mobile Applications
 #### 2. (optional but great) Watch this video
 #### 3. (optional but great) Watch this video
 #### 4. Follow the github course, you can find it here
