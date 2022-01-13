@@ -119,3 +119,4 @@ Common examples of JavaScript uses and applications include:
 #### 2. (optional but great) Watch this video
 #### 3. (optional but great) Watch this video
 #### 4. Follow the github course, you can find it here
+* GitHub is a platform that allows us to save Git repositories that we can use as remote servers and execute some commands visually and interactively. After creating our account, we can create or import repositories, create organizations and work projects, discover other people's repositories, contribute to those projects, give stars, and many other things.
