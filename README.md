@@ -11,7 +11,7 @@ core-code
 
 #### 3. Create an algorithm to calculate the equivalent of your local currencty to USD
 ```
-converter algorithm
+Converter Algorithm
 
 write: "convert quetzals to dollars"
 write: "Enter the amount in quetzals"
@@ -29,6 +29,8 @@ Final Algorithm
 * Pseudocode helps us understand tasks in a language independent way.
 
 #### 6. Create a pseudocode to calculate the aproximated age of a user base on the year they born, (you can define a variable with the actual year if you need it, like for example i could define Y <-- 2022)
+```
+```
 
 #### 7. Read about flowcharts here
 
