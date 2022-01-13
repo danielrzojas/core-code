@@ -44,6 +44,8 @@ Step 6: Result (30)
 * It allows us to easily graphically see a certain logical process that can be useful for some type of task.
 
 #### 9. Search about High-level languages and Low-level languages, you can start with this video
+* A high-level language is a programming language designed to simplify computer programming.
+* A low-level language is a type of programming language that contains basic instructions recognized by a computer.
 
 ## Wednesday
 #### 1. Learn about binary, decimal and hexadecimal numbers
