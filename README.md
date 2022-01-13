@@ -107,3 +107,8 @@ Step 6: Result (30)
       la $a0, message
       syscall
 ```
+## Thursday
+#### 1. Search for real word applications of Javascript
+#### 2. (optional but great) Watch this video
+#### 3. (optional but great) Watch this video
+#### 4. Follow the github course, you can find it here
