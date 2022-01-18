@@ -1,4 +1,4 @@
-# Introduction to programming & Javascript - Week 1
+# Javascript - Week 2
 
 ## Tuesday
 
